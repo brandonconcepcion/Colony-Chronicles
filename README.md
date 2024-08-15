@@ -1,4 +1,7 @@
 ## Introduction
+
+![](https://github.com/brandonconcepcion/ants/blob/master/assets/new-ants-gui.png)
+
 I Used Object Oriented Programming (OOP) to implement 13 defensive units for a tower defense game I call **Colony Chronicles: Bee Gone**. I worked on this project when I took COMPSCI 61A: "Structure and Interpretation of Computer Programs" at UC Berkeley. A demo of the final game can seen [here!](https://youtu.be/noZKTQ23QBs)
 
 This game takes inspiration from PopCap Games' [Plants Vs. Zombies](https://www.ea.com/games/plants-vs-zombies/plants-vs-zombies#description). 
