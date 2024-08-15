@@ -31,7 +31,7 @@ I Used Object Oriented Programming (OOP) to implement 13 defensive units for a t
         <img src = assets/insects/ant_scary.gif>
     </td>
     <td valign="middle" align="left" width="10%">
-        <img src = assets/insects/ant_bodyguard.gif>
+        <img src = assets/insects/ant_harvester.gif>
     </td>
     <td valign="middle" align="left" width="10%">
         <img src = assets/insects/ant_ninja.gif>
