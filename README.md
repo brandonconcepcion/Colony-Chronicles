@@ -16,10 +16,22 @@ I Used Object Oriented Programming (OOP) to implement 13 defensive units for a t
         <img src = assets/insects/ant_wall.gif>
     </td>
     <td valign="middle" align="left" width="20%">
-        <img src = assets/insects/ant_bee.gif>
+        <img src = assets/insects/bee.gif>
     </td>
     <td valign="middle" align="left" width="20%">
         <img src = assets/insects/ant_queen.gif>
+    </td>
+    <td valign="middle" align="left" width="20%">
+        <img src = assets/insects/ant_hungry.gif>
+    </td>
+    <td valign="middle" align="left" width="20%">
+        <img src = assets/insects/ant_shortthrower.gif>
+    </td>
+    <td valign="middle" align="left" width="20%">
+        <img src = assets/insects/ant_scary.gif>
+    </td>
+    <td valign="middle" align="left" width="20%">
+        <img src = assets/insects/ant_bodyguard.gif>
     </td>
   </tr>
 </table>
