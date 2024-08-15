@@ -1,6 +1,6 @@
 ## Introduction
 
-![](https://github.com/brandonconcepcion/ants/assets/new-ants-gui.png)
+<img src = ants/assets/new-ants-gui.png>
 
 I Used Object Oriented Programming (OOP) to implement 13 defensive units for a tower defense game I call **Colony Chronicles: Bee Gone**. I worked on this project when I took COMPSCI 61A: "Structure and Interpretation of Computer Programs" at UC Berkeley. A demo of the final game can seen [here!](https://youtu.be/noZKTQ23QBs)
 
