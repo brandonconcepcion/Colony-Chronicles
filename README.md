@@ -1,8 +1,29 @@
 ## Introduction
 
-<img src = assets/new-ants-gui.png>
+<img src = assets/splash.png>
 
 I Used Object Oriented Programming (OOP) to implement 13 defensive units for a tower defense game I call **Colony Chronicles: Bee Gone**. I worked on this project when I took COMPSCI 61A: "Structure and Interpretation of Computer Programs" at UC Berkeley. A demo of the final game can seen [here!](https://youtu.be/noZKTQ23QBs)
+
+<table>
+  <tr>
+    <td valign="middle" align="left" width="20%">
+        <img src = assets/ant_fire.gif>
+    </td>
+    <td valign="middle" align="left" width="20%">
+        <img src = assets/ant_laser.gif>
+    </td>
+    <td valign="middle" align="left" width="20%">
+        <img src = assets/ant_wall.gif>
+    </td>
+    <td valign="middle" align="left" width="20%">
+        <img src = assets/ant_bee.gif>
+    </td>
+    <td valign="middle" align="left" width="20%">
+        <img src = assets/ant_queen.gif>
+    </td>
+  </tr>
+</table>
+
 
 This game takes inspiration from PopCap Games' [Plants Vs. Zombies](https://www.ea.com/games/plants-vs-zombies/plants-vs-zombies#description). 
 
@@ -45,6 +66,8 @@ $ python3 ants_gui.py
       -d DIFFICULTY  sets difficulty of game (test/easy/medium/hard/extra-hard)
       -w, --water    loads a full layout with water
       --food FOOD    number of food to start with when testing
+
+<img src = assets/new-ants-gui.png>
 
 ### Project Spec
 [Spring 2023 Implementation](https://inst.eecs.berkeley.edu/~cs61a/sp23/proj/ants/)
