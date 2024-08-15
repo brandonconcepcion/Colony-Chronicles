@@ -7,19 +7,19 @@ I Used Object Oriented Programming (OOP) to implement 13 defensive units for a t
 <table>
   <tr>
     <td valign="middle" align="left" width="20%">
-        <img src = assets/ant_fire.gif>
+        <img src = assets/insects/ant_fire.gif>
     </td>
     <td valign="middle" align="left" width="20%">
-        <img src = assets/ant_laser.gif>
+        <img src = assets/insects/ant_laser.gif>
     </td>
     <td valign="middle" align="left" width="20%">
-        <img src = assets/ant_wall.gif>
+        <img src = assets/insects/ant_wall.gif>
     </td>
     <td valign="middle" align="left" width="20%">
-        <img src = assets/ant_bee.gif>
+        <img src = assets/insects/ant_bee.gif>
     </td>
     <td valign="middle" align="left" width="20%">
-        <img src = assets/ant_queen.gif>
+        <img src = assets/insects/ant_queen.gif>
     </td>
   </tr>
 </table>
