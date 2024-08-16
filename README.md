@@ -1,6 +1,11 @@
 ## Introduction
 
-<img src = assets/splash.png>
+<p align="center">
+  <a href="https://github.com/brandonconcepcion">
+   <img src = assets/splash.png alt="MasterHead" width="750"/>
+  </a>
+</p>
+
 
 I Used Object Oriented Programming (OOP) to implement 13 defensive units for a tower defense game I call **Colony Chronicles: Bee Gone**. I worked on this project when I took COMPSCI 61A: "Structure and Interpretation of Computer Programs" at UC Berkeley. A demo of the final game can seen [here!](https://youtu.be/noZKTQ23QBs)
 
@@ -70,7 +75,7 @@ $ python3 ants_text.py
 ````
 To start a graphical game, run
 ```sh
-$ python3 ants_gui.py
+$ python3 gui.py
 ````
     usage: ants_text.py [-h] [-d DIFFICULTY] [-w] [--food FOOD]
     
