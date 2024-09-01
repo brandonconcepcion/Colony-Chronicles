@@ -1,5 +1,7 @@
 ## Introduction
 
+If you would like access to the source code, feel free to message me privately!
+
 <p align="center">
   <a href="https://github.com/brandonconcepcion">
    <img src = assets/splash.png alt="MasterHead" width="750"/>
